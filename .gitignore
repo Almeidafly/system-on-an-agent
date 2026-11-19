@@ -14,3 +14,6 @@ venv/
 *.jsonl
 .coverage
 htmlcov/
+
+# Local full-page preview (not part of the site)
+site-preview.png
